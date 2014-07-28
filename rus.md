@@ -615,7 +615,7 @@ Node использует потоки исполнения для ускоре�
 [35]: http://nikhilm.github.io/uvbook/
 
 [программа learnyounode]: img/learnyounode.png
-[серверная схема]: img/server-diagram-ru.png
+[серверная схема]: img/server-diagram-RU.png
 [stream-handbook]: img/stream-handbook.png
 [поиск pdf]: img/npm-search.png
 [pdf-модули]: img/pdf-modules-ru.png
