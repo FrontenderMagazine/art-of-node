@@ -925,7 +925,7 @@ Node.js был реализован именно таким образом, ва
 
 [1]: http://jsforcats.com/
 [2]: http://skli.se/2012/09/22/introduction-to-git/
-[3]: http://zachbruggeman.me/github-for-cats/
+[3]: http://ericsteinborn.com/github-for-cats/#/
 [4]: http://opensourcerer.diy.org/
 [5]: https://www.gittip.com/maxogden/
 [6]: http://nodeschool.io/
@@ -949,7 +949,7 @@ Node.js был реализован именно таким образом, ва
 [24]: https://www.npmjs.org/package/textract
 [25]: https://github.com/fagbokforlaget/pdfiijs
 [26]: https://github.com/modesty/pdf2json/blob/master/readme.md
-[27]: http://docs.python-guide.org/en/latest/dev/virtualenvs.html
+[27]: http://python-guide.readthedocs.org/en/latest/dev/virtualenvs/
 [28]: http://bundler.io/
 [29]: http://browserify.org/
 [30]: http://requirebin.com/
