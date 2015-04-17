@@ -914,7 +914,7 @@ Node.js использует потоки исполнения для ускор
 Node.js был реализован именно таким образом, вам 100% следует почитать о [структуре
 библиотеки libuv][35], I/O-слое C++, на котором построен Node.
 
-<section class="gratitude-block gratitude-block-ok">
+<section class="gratitude-block gratitude-block-ok2">
   <a title="Ссылка на блог компании" href="http://weareok.ru/">
     <img src="img/ok.svg" alt="Логотип компании «Одноклассники»">
   </a>
